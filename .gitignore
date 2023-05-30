@@ -800,3 +800,6 @@ custom_logging.py
 
 # Config
 setting/config.py
+
+# database
+database/database_folder/database.db

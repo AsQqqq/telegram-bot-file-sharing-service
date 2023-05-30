@@ -13,6 +13,9 @@
 + Зайдите в папку setting
     + Создайте в ней файл config.py
         + Создайте в этом файле переменную API и укажите там API от своего бота
+        + Так же укажите путь до вашей базы данных. Пример:
+            + ```database_path = f'database/database_folder/database.db'```
++ Создайте папку database_folder в папке database
 + Создайте виртуальное окружение для вашего бота и импортируйте 2 библеотеки
     + ```pip install aiogram```
     + ```pip install colorama```
@@ -34,6 +37,8 @@ This is a telegram bot for transferring files between people (anonymously) using
 + Go to the setting folder
     + Create a file in it config.py
         + Create an API variable in this file and specify the API from your bot there
+        + Also specify the path to your database. Example:
+            + ```database_path = f'database/database_folder/database.db'```
 + Create a virtual environment for your bot and import 2 bible libraries
     + ```pip install aiogram```
     + ```pip install colorama```
@@ -47,8 +52,8 @@ This is a telegram bot for transferring files between people (anonymously) using
 + Сделать бота телеграмм(запуск) ✔️
 + Сделать ответ на команду /start ✔️
 + Сделать ответ на все сообщения ✔️
-+ Создать базу данных ❌
-+ Создать внос пользователя внутрь ❌
++ Создать базу данных ✔️
++ Создать внос пользователя внутрь ✔️
 + Сделать проверку на изменения каких либо данных у пользователя ❌
 + Сделать тестовую кнопку ❌
 + Сделать меню ❌
@@ -67,8 +72,8 @@ This is a telegram bot for transferring files between people (anonymously) using
 + Make a telegram bot (launch) ✔️
 + Make a response to the /start command ✔️
 + Make a reply to all messages ✔️
-+ Create a database ❌
-+ Create a user entry inside ❌
++ Create a database ✔️
++ Create a user entry inside ✔️
 + Make a check for changes to any data from the user ❌
 + Make a test button ❌
 + Make a menu ❌
