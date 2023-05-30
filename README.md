@@ -73,7 +73,7 @@ This is a telegram bot for transferring files between people (anonymously) using
 + Make a test button ❌
 + Make a menu ❌
 + Make a system of states ❌
-+ + Make a backend of buttons ❌
++ Make a backend of buttons ❌
 + Upload data via the button to the database ❌
 + Generate tokens for data ❌
 + Make the design of the stored data (it is possible to name files for example) ❌
