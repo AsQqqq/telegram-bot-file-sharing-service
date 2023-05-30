@@ -1,21 +1,19 @@
-# Security Policy
+# Security Policy / Политика безопасности
 
-## Supported Versions
+# Русский
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Версия python
 
-| Version | Supported          |
+| Версия | Поддержка          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 3.10.x   | :white_check_mark: |
+| 3.2.x   | :x:                |
 
-## Reporting a Vulnerability
+# English
 
-Use this section to tell people how to report a vulnerability.
+## python version
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+| Version | Support          |
+| ------- | ------------------ |
+| 3.10.x   | :white_check_mark: |
+| 3.2.x   | :x:                |
