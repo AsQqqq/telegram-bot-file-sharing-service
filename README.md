@@ -54,11 +54,12 @@ This is a telegram bot for transferring files between people (anonymously) using
 + Сделать ответ на все сообщения ✔️
 + Создать базу данных ✔️
 + Создать внос пользователя внутрь ✔️
-+ Сделать проверку на изменения каких либо данных у пользователя ❌
-+ Сделать тестовую кнопку ❌
-+ Сделать меню ❌
-+ Сделать систему состояний ❌
-+ Сделать бекенд кнопок ❌
++ Сделать проверку на изменения каких либо данных у пользователя ✔️
++ Сделать тестовую кнопку ✔️
++ Сделать меню ✔️
++ Сделать систему состояний ✔️
++ Сделать систему сообщений ✔️
++ Сделать бэкенд кнопок ❌
 + Сделать загрузку данных через кнопку в базу данных ❌
 + Сделать генерацию токенов для данных ❌
 + Сделать оформление хранимых данных (возможно называть файлы например) ❌
@@ -74,10 +75,11 @@ This is a telegram bot for transferring files between people (anonymously) using
 + Make a reply to all messages ✔️
 + Create a database ✔️
 + Create a user entry inside ✔️
-+ Make a check for changes to any data from the user ❌
-+ Make a test button ❌
-+ Make a menu ❌
-+ Make a system of states ❌
++ Make a check for changes to any data from the user ✔️
++ Make a test button ✔️
++ Make a menu ✔️
++ Make a system of states ✔️
++ Make a message system ✔️
 + Make a backend of buttons ❌
 + Upload data via the button to the database ❌
 + Generate tokens for data ❌
